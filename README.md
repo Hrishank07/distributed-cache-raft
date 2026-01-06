@@ -1,7 +1,6 @@
 # Distributed Cache with Raft Consensus (Java + Spring Boot)
 
-A learning-focused implementation of a **strongly consistent distributed cache** built on the **Raft consensus algorithm**.  
-The goal is to understand how real systems keep multiple nodes in agreement under failures (leader crashes, partitions), not to build a Redis replacement.
+A learning-focused implementation of a **strongly consistent distributed cache** built on the **Raft consensus algorithm**. The goal is to understand how real systems keep multiple nodes in agreement under failures (leader crashes, partitions), not to build a Redis replacement.
 
 ---
 
